@@ -1,0 +1,17 @@
+classes
+target
+build
+out
+pf_tempesta_five
+local.properties
+
+.gradle
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea
+.exe
+=======
+
+*.log
